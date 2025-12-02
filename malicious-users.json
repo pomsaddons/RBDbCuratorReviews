@@ -8,5 +8,15 @@
     "body": "example.",
     "createdAt": "2025-11-30T12:00:00.000Z",
     "source": "RBDb User Protection"
+  },
+  {
+    "id": "user-001",
+    "userID": "4142926203",
+    "title": "example",
+    "author": "RBDb-Test",
+    "summary": "test.........................................................................",
+    "body": "example.",
+    "createdAt": "2025-11-30T12:00:00.000Z",
+    "source": "RBDb User Protection"
   }
 ]
